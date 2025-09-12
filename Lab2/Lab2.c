@@ -22,7 +22,6 @@ double calculateMean(int *arr, int size) {
     printf("Sum: %d\n", sum);
     int mean = sum / size;
     return (double) mean;
-
 }
 
 
